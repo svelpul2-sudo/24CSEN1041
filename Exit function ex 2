@@ -1,10 +1,11 @@
-import sys
-
 age = -1
-if age < 0:
-    sys.exit("Invalid age")
-print("Valid age")
-#OUTPUT
-A module you have imported isn't available at the moment. It will be available soon.
 
-=== Code Execution Successful ===
+if age < 0:
+    exit("Invalid age")
+
+print("Valid age")
+
+#OUTPUT
+Invalid age
+
+=== Code Exited With Errors ===
