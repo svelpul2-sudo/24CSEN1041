@@ -1,11 +1,12 @@
-age = -1
+def check_age(age):
+    if age < 0:
+        print("Invalid age")
+        return   # exits the function
+    print("Valid age")
 
-if age < 0:
-    exit("Invalid age")
-
-print("Valid age")
+check_age(-1)
 
 #OUTPUT
 Invalid age
 
-=== Code Exited With Errors ===
+=== Code Execution Successful ===
