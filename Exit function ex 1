@@ -3,6 +3,7 @@ x = 5
 if x < 0:
     exit()
 print("x is positive")
+#OUTPUT
 x is positive
 
 === Code Execution Successful ===
