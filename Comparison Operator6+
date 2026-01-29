@@ -1,0 +1,14 @@
+a = 5
+b = 8
+
+print(a == b)  # equal to
+print(a != b)  # not equal to
+print(a > b)   # greater than
+print(a < b)   # less than
+#OUTPUT
+False
+True
+False
+True
+
+=== Code Execution Successful ===
