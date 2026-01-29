@@ -1,0 +1,11 @@
+fruits = ["apple", "banana", "mango"]
+
+print("apple" in fruits)      # True
+print("grape" in fruits)      # False
+print("orange" not in fruits) # True
+#OUTPUT
+True
+False
+True
+
+=== Code Execution Successful ===
